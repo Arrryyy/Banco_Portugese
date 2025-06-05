@@ -2,3 +2,9 @@ fastapi
 uvicorn
 scikit-learn
 pandas
+
+
+
+LDA, NAive Baies, KNN
+
+Visualizations

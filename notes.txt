@@ -1,0 +1,24 @@
+1.) Extended goal is client to be more 'yes', and therefore we focus more on Machine Learning Algos that can help us get 'yes' results more while staying relevant to the data we have/leveraged. 
+
+
+
+Variables and their Analysis: 
+
+Observations are as follows.
+
+Age : This is age of client. A violin plot is plotted for age. It shows it is spread as well as histogram. People saying yes has more spread.
+Job : This is a categorical feature. It has 12 categories including unknown. The largest clients in this category belong to management jobs with percentage of 50 while unknown category has least count.
+Marital : This is a categorical feature. It has 3 categories. Married clients constitute the largest portion of this feature. 4.Education : Maximum clients belong to category of secondary education. The category tertiary education has larger ratio of clients saying yes to term deposit than any other category.
+Default : it tells whether the client has credit in bank or not? Most of them don’t have credit.
+Balance : It is a numerical feature. It specifies the actual balance in the clients account.
+Housing : Whether the client has already got any housing loan from bank? Apparently clients who do not already have housing loan tend to subscribe to deposit more.
+Loan : Most of them don’t already have personal loan in bank.
+Contact : This feature specifies the way of communication. It can be cellular or telephone. Some of them are unknown.
+Month : the month in which the client was contacted. Maximum clients were contacted in May.
+Day : which day of the month was the client contacted. More clients were contacted in the middle of the month.
+Duration : The duration of call in seconds when the client was contacted last time. A histogram is plotted for this feature and there are very less number of clients having very long duration. A violin plot is also given which indicates that people with longer duration have more possibility of saying yes to deposit.
+Campaign : Number of times this client was contacted during this campaign.
+Pdays : number of days that passed after the client was last contacted in previous campaign. It is value is -1 if the client was not contacted previously.
+Previous : Number of times this client was contacted before this campaign.
+Poutcome : The outcome of previous marketing campaign. It is a categorical feature. Many of them were not contacted in previous campaign.
+Deposit : Whether the clients said yes to subscribe for a term deposit. It has two categories. ‘yes’ or ‘no’.
