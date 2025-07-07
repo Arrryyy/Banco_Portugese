@@ -5,6 +5,8 @@ pandas
 
 
 
-LDA, NAive Baies, KNN
+LDA, 
+NAive Baies,
+ KNN
 
 Visualizations
